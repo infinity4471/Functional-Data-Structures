@@ -1,2 +1,3 @@
-# Persistent-Segment-Tree
-A purely functional implementation of a persistent segment tree in Haskell
+# Fuctional-Data-Structures
+
+A collection of purely functional data structures implemented in Haskell.
